@@ -1,7 +1,8 @@
 # Messenger App - Text Messageing App Project
 <b>Norwalk High School - Project Lead The Way (PLTW) - Computer Science<br>
 <b>Class:<b> Computer Science Application (CSA) - 4th Year (Senior) <br> 
-<b> <br>
+This is a basic app that lets you send messages through another app.<br>
+Completed apps are tested on a device, presented to peers, and uploaded to GitHub for teacher review grade.:smile:<br>
 
 <b>Messenger App Start Screen <br>
 ![Alt text] (https://github.com/HaiLAthan/Messenger-Athan/blob/master/screenshots/layout-2016-02-29-114621.png "Messenger Start Screen")<br><br>
